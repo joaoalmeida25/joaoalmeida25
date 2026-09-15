@@ -1,10 +1,10 @@
 <div align="center">
 
+<img src="./assets/banner.png" alt="Notebook com código e café" width="100%" />
+
 # João Vitor de Almeida
 
 ### Software Engineer
-
-Desenvolvimento de Software · Arquitetura · Cloud
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vitor-almeida-54439b19b)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jv.almeidaa25@gmail.com)
@@ -17,11 +17,11 @@ Desenvolvimento de Software · Arquitetura · Cloud
 
 ### Sobre mim
 
-Engenheiro de software com experiência na construção e evolução de **produtos digitais**, atuando entre desenvolvimento, arquitetura, integrações, qualidade, cloud e produção.
+Engenheiro de software com experiência na construção e evolução de produtos digitais, atuando entre desenvolvimento, arquitetura, integrações, qualidade, cloud e produção.
 
 Minha atuação recente é concentrada principalmente em **React, Node.js e TypeScript**, trabalhando com aplicações web, APIs, microsserviços e integração entre sistemas.
 
-> Busco construir soluções que equilibrem **simplicidade, manutenibilidade, evolução arquitetural e impacto real no produto**.
+> Busco construir soluções que equilibrem **simplicidade, evolução arquitetural e impacto real no produto**.
 
 ---
 
@@ -61,4 +61,3 @@ Minha atuação recente é concentrada principalmente em **React, Node.js e Type
 | **Dados** | PostgreSQL · Prisma · DynamoDB |
 | **Cloud & Delivery** | AWS · Docker · GitHub Actions · CI/CD |
 | **Qualidade** | Jest · Vitest · React Testing Library · Cypress |
-
