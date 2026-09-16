@@ -21,7 +21,7 @@ Engenheiro de software com experiência na construção e evolução de produtos
 
 Minha atuação recente é concentrada principalmente em **React, Node.js e TypeScript**, trabalhando com aplicações web, APIs, microsserviços e integração entre sistemas.
 
-> Busco construir soluções que equilibrem **simplicidade, evolução arquitetural e impacto real no produto**.
+Busco construir soluções que equilibrem simplicidade, evolução arquitetural e impacto real no produto.
 
 ---
 
