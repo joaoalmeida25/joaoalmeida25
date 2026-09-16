@@ -6,6 +6,7 @@
 
 ### Software Engineer
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-7F52FC?style=flat-square&logo=vercel&logoColor=white)](https://joaoalmeidaa.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vitor-almeida-54439b19b)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jv.almeidaa25@gmail.com)
 
